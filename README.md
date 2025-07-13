@@ -17,7 +17,7 @@ The README Generator is a platform that allows users to upload a single-file cod
 
 
 ## Navigation
-- [🤖 ReadmeAI 📃](#-readmeai-)
+- [🤖 MarkdownAI 📃](#-readmeai-)
   - [Overview](#overview)
   - [Navigation](#navigation)
   - [😎 Features](#-features)
